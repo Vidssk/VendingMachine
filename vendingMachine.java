@@ -76,7 +76,7 @@ public int getChoc (StringBuffer choc)
 	
 	
 	change = credit - 90;
-	System.out.println ("change: " + change + "\n");
+	
 
 
 	credit = 0;
